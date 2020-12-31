@@ -21,7 +21,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 1. **Sub_metering_2:** energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 1. **Sub_metering_3:** energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-###Usage
+### Usage
+
 There are four .R scripts (plot1.R, plot2.R, plot3.R and plot4.R) that assume the data from the link above (Electric power consumption) has been downloaded and unzipped into the user's home directory.  The scripts are assumed to be colocated.  The scripts are run and individually and each results in a plot (plot1.png, plot2.png, plot3.png and plot4.png) written to the working directory.  
 
 If the user desires, one can modify the working directory for each script to perform in a directory of their choice by replacing the "~" in each script with a working directory of their choice.  It would be trivial to make a function that accepted a WD as well.
