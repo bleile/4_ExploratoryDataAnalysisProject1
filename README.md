@@ -26,3 +26,10 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 There are four .R scripts (plot1.R, plot2.R, plot3.R and plot4.R) that assume the data from the link above (Electric power consumption) has been downloaded and unzipped into the user's home directory.  The scripts are assumed to be colocated.  The scripts are run and individually and each results in a plot (plot1.png, plot2.png, plot3.png and plot4.png) written to the working directory.  
 
 If the user desires, one can modify the working directory for each script to perform in a directory of their choice by replacing the "~" in each script with a working directory of their choice.  It would be trivial to make a function that accepted a WD as well.
+
+### Plots
+![alt text](https://github.com/bleile/4_ExploratoryDataAnalysisProject1/blob/main/plot1.png?raw=true)
+![alt text](https://github.com/bleile/4_ExploratoryDataAnalysisProject1/blob/main/plot2.png?raw=true)
+![alt text](https://github.com/bleile/4_ExploratoryDataAnalysisProject1/blob/main/plot3.png?raw=true)
+![alt text](https://github.com/bleile/4_ExploratoryDataAnalysisProject1/blob/main/plot4.png?raw=true)
+
